@@ -1,0 +1,39 @@
+{
+  "S001": {
+    "student_name": "Nguyen Van A",
+    "total_points": 15.0,
+    "activity_count": 2,
+    "activities": [
+      {
+        "activity": "Chess Club",
+        "points": 10.0
+      },
+      {
+        "activity": "Gym Class",
+        "points": 5.0
+      }
+    ]
+  },
+  "S002": {
+    "student_name": "Tran Thi B",
+    "total_points": 15.0,
+    "activity_count": 1,
+    "activities": [
+      {
+        "activity": "Programming Class",
+        "points": 15.0
+      }
+    ]
+  },
+  "S003": {
+    "student_name": "Le C",
+    "total_points": 20.0,
+    "activity_count": 1,
+    "activities": [
+      {
+        "activity": "GitHub Skills",
+        "points": 20.0
+      }
+    ]
+  }
+}

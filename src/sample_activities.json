@@ -1,0 +1,6 @@
+[
+  { "student_id": "S001", "student_name": "Nguyen Van A", "activity": "Chess Club", "points": 10 },
+  { "student_id": "S002", "student_name": "Tran Thi B", "activity": "Programming Class", "points": 15 },
+  { "student_id": "S001", "student_name": "Nguyen Van A", "activity": "Gym Class", "points": 5 },
+  { "mssv": "S003", "name": "Le C", "activity_name": "GitHub Skills", "points": 20 }
+]
